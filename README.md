@@ -14,3 +14,5 @@ My portfolio in data rockie bootcamp
 - Python programmimg
 - Essential Python for Data analyst
 - Dashboard
+
+You can find me ob LinkedIN : https://www.linkedin.com/in/thatthaphol-srikeatkeawmanee/
